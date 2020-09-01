@@ -4,10 +4,12 @@ C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\bin\Debug\netcore
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\bin\Debug\netcoreapp3.1\CallOfDuty.runtimeconfig.dev.json
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\bin\Debug\netcoreapp3.1\CallOfDuty.dll
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\bin\Debug\netcoreapp3.1\CallOfDuty.pdb
-C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.csprojAssemblyReference.cache
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.AssemblyInfoInputs.cache
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.AssemblyInfo.cs
-C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.csproj.CoreCompileInputs.cache
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.dll
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.pdb
 C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.genruntimeconfig.cache
+C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thelittlecitizen16\source\repos\CallOfDuty\CallOfDuty\obj\Debug\netcoreapp3.1\CallOfDuty.csproj.CopyComplete

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Xml.Serialization;
 
 namespace CallOfDuty.PlayersObjects
 {
@@ -14,8 +15,13 @@ namespace CallOfDuty.PlayersObjects
         public double Length { get; set; }
         public double DayAvrageOfKill { get; set; }
         public List<Gun> AllFavoriteGun { get; set; }
-        public double IsCheater { get; set; }
-        public Settings(string fullName, string nickname, DateTime signInDate, double width, double length, double dayAvrageOfKill, List<Gun> allFavoriteGun, double isCheater)
+        [XmlIgnoreAttribute]
+        public bool IsCheater { get; set; }
+        public Settings()
+        {
+
+        }
+        public Settings(string fullName, string nickname, DateTime signInDate, double width, double length, double dayAvrageOfKill, List<Gun> allFavoriteGun, bool isCheater)
         {
             FullName = fullName;
             Nickname = nickname;

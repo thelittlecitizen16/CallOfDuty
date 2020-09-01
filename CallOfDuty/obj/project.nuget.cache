@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JVbHIVpUliMXwKBbeGMuKl878HiRaasu0J5XvoSQAXrw7LJPqPnqYAKgTp5qLPRZLTlqHfrs+NhzsZK7oqEisg==",
+  "dgSpecHash": "UY1Snpwk83cdrNLrA9iO+N0DbxpzI6amqkHXMVMfnlNmgORykLeowsQUYCqd1S6w6OgXFwBN9bmPIkIZuGVC6w==",
   "success": true,
   "projectFilePath": "C:\\Users\\thelittlecitizen16\\source\\repos\\CallOfDuty\\CallOfDuty\\CallOfDuty.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\thelittlecitizen16\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

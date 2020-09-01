@@ -1,2 +1,21 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<root></root>
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AllPlayersSetting>
+    <Settings>
+      <FullName>player1</FullName>
+      <Nickname>p1</Nickname>
+      <SignInDate>2020-09-01T16:47:25.1719417+03:00</SignInDate>
+      <Width>10</Width>
+      <Length>10</Length>
+      <DayAvrageOfKill>5</DayAvrageOfKill>
+      <AllFavoriteGun>
+        <Gun>
+          <Name>BOOM</Name>
+          <BolutCount>50</BolutCount>
+          <Damage>8</Damage>
+          <Color>RED</Color>
+        </Gun>
+      </AllFavoriteGun>
+    </Settings>
+  </AllPlayersSetting>
+</Configuration>
